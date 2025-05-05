@@ -1,6 +1,6 @@
 # 👨🏾‍💻 Gabriel Rocha 
 
-**`Desevolvedor FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Gabriel Rocha da Silva, sou do Rio de Janeiro. Atualmente estou cursando Ciência da computação na IBMR, sempre gostei bastante de tecnologia. Extremamente motivado em constante desenvolvimento de minhas habilidades e perfil profissional aberto a novas ideias e dicas para enriquecer a minha jornada como desenvolvedor, atualmente procurando oportunidades de estágio.
 
